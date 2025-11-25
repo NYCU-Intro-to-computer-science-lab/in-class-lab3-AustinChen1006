@@ -17,7 +17,6 @@ long long sum(int n){
 int main(){
 	int n;
 	cin>>n;
-	cout<<factorial(n)<<endl;
-	cout<<sum(n)<<endl;
+	cout<<factorial(n)<<"\n"sum(n)<<endl;
 	return 0;
 }
